@@ -1,0 +1,19 @@
+source,target,GWh/y
+Grid electricity,TMP plant,1014.9999999999999
+Grid electricity,Electric boilers,145.0
+Grid electricity,Paper machines,195.9
+Grid electricity,Other users*,94.1
+TMP plant,Steam network,470.6765143430467
+Electric boilers,Steam network,142.183530374462
+TMP plant,Low-grade waste heat,544.3234856569532
+Electric boilers,Low-grade waste heat,2.816469625537991
+Steam network,Paper machines,447.1426886258943
+Steam network,Hot water & heating,134.14280658776832
+Steam network,Other users*,7.060147715145701
+Steam network,Low-grade waste heat,24.514401788700347
+Paper machines,Low-grade waste heat,643.0426886258944
+Other users*,Low-grade waste heat,101.1601477151457
+Hot water & heating,District heating,11.877
+Hot water & heating,Low-grade waste heat,122.26580658776832
+Low-grade waste heat,Heat to air,1205.2501573583334
+Low-grade waste heat,Heat to water,232.87284264166667
